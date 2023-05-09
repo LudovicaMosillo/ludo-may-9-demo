@@ -2,4 +2,3 @@
 
 First try
 * first point 
-*Yes
